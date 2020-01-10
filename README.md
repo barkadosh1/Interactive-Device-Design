@@ -1,4 +1,4 @@
-# Interactive Device Design Labs
+# Interactive Device Design Projects
 
 - [Sun-Triggered Alarm](https://github.com/barkadosh1/IDD-Fa19-Lab3)
 - [Servo Motor Paper Airplane Turbulence](https://github.com/barkadosh1/IDD-Fa19-Lab4)
